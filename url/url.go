@@ -14,6 +14,7 @@ func Web(app *fiber.App) {
 	app.Get("/", controller.Homepage)
 	app.Get("/ip", controller.IPServer)
 
-	// Tambahkan route modul di bawah ini setelah PR di-merge
-	// Contoh: MahasiswaRoute(app)
+	// Modul 8 - Beasiswa & Pendaftaran (yasmin)
+	BeasiswaRoute(app)
+	PendaftaranRoute(app)
 }
