@@ -288,22 +288,15 @@ Menghapus data pendaftaran mahasiswa berdasarkan NPM.
 
 ---
 
-# Fitur
+# Fitur :
 
-✅ CRUD Data Beasiswa  
-✅ Pendaftaran Mahasiswa  
-✅ Update Status Pendaftaran  
-✅ Delete Pendaftaran  
-✅ Validasi Input Form  
-✅ Responsive UI  
-✅ MongoDB Atlas Integration  
-✅ REST API Fiber v2  
+1. CRUD Data Beasiswa  
+2. Pendaftaran Mahasiswa  
+3. Update Status Pendaftaran  
+4. Delete Pendaftaran  
+5. Validasi Input Form  
+6. Responsive UI  
+7. MongoDB Atlas Integration  
+8. REST API Fiber v2  
 
 ---
-
-# Author
-
-Al Yasmin Assa'diyah  
-NPM: 714240014  
-
-Modul 8 — Beasiswa & Pendaftaran
